@@ -26,9 +26,7 @@ Experienced Senior Software Engineer with expertise in Node.js, TypeScript, Reac
 
 ## Social Profiles  
 - [LinkedIn](https://www.linkedin.com/in/andrii-peliak-2490b629/)  
-- [Invest Office Lviv](https://investoffice.lviv.ua/)  
-- [Artefact](https://artefact.org.ua/)  
-- [Random Road](https://randomroad.today/)  
+- [Konar](https://konar.org.ua/)
 
 ---
 
