@@ -51,7 +51,7 @@ Played a critical role in delivering a platform that ensures adherence to compan
 **Book of Memory of Lemkivshchyna 1944-1946**  
 A digital project that preserves the memory of Lemko Ukrainians displaced between 1944-1946 due to the actions of communist regimes. The project features a database of displaced individuals, accessible through a web interface.  
 
-**Project link:*** [Konar.org](https://konar.org.ua/)
+**Project link:** [Konar.org](https://konar.org.ua/)
 
 **Technologies Used:**  
 - Python (Flask) for API development  
@@ -59,11 +59,6 @@ A digital project that preserves the memory of Lemko Ukrainians displaced betwee
 - PostgreSQL for database management  
 
 ---
-
-**Book of Memory of Lemkivshchyna 1944-1946**  
-
-The "Book of Memory of Lemkivshchyna 1944-1946" contains lists of Lemko Ukrainians who were forcibly displaced between 1944-1946 due to the actions of the communist regimes of Poland and the USSR. Based on archival documents, the book preserves the memory of the Lemko tragedy and serves as a reference for the descendants of the deported.  
-**Author:** Yaroslava Halyk
 
 ### **Senior Software Engineer at Enke Systems**  
 **February 2023 – January 2024**  
