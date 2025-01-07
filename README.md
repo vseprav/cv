@@ -3,6 +3,7 @@
 
 **Location:** Lviv  
 **Phone:** +380983196614  
+**Email:** andrii.peliak@gmail.com
 
 Experienced Senior Software Engineer with expertise in Node.js, React JS, Python, PostgreSQL, AWS, and Azure. Skilled in API development, cloud-based architectures, database design, and AI integration. Delivered impactful projects across compliance, music, food delivery, and business services.
 
