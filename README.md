@@ -4,7 +4,7 @@
 **Location:** Lviv  
 **Phone:** +380983196614  
 
-Experienced Senior Software Engineer with expertise in Node.js, TypeScript, React, PostgreSQL, AWS, and Azure. Skilled in API development, cloud-based architectures, database design, and AI integration. Delivered impactful projects across compliance, music, food delivery, and business services.
+Experienced Senior Software Engineer with expertise in Node.js, React JS, Python, PostgreSQL, AWS, and Azure. Skilled in API development, cloud-based architectures, database design, and AI integration. Delivered impactful projects across compliance, music, food delivery, and business services.
 
 ---
 
@@ -16,22 +16,9 @@ Experienced Senior Software Engineer with expertise in Node.js, TypeScript, Reac
 
 ---
 
-## Personal Information  
-- **Address:** Lviv  
-- **Nationality:**  
-- **Driving License:**  
-- **Hobbies:**  
-
----
-
-## Social Profiles  
+## Links  
 - [LinkedIn](https://www.linkedin.com/in/andrii-peliak-2490b629/)  
-- [Konar](https://konar.org.ua/)
-
----
-
-## Languages  
-- ★★★★☆ English
+- [Konar.org](https://konar.org.ua/)
 
 ---
 
@@ -59,6 +46,23 @@ React JS, TypeScript, Firebase, Google Functions, BigQuery, Google Document AI, 
 Played a critical role in delivering a platform that ensures adherence to company policies and provides actionable insights to end users.  
 
 ---
+## Personal Project  
+**Book of Memory of Lemkivshchyna 1944-1946**  
+A digital project that preserves the memory of Lemko Ukrainians displaced between 1944-1946 due to the actions of communist regimes. The project features a database of displaced individuals, accessible through a web interface.  
+
+** [Konar.org](https://konar.org.ua/)
+
+**Technologies Used:**  
+- Python (Flask) for API development  
+- React JS for the user interface  
+- PostgreSQL for database management  
+
+---
+
+**Book of Memory of Lemkivshchyna 1944-1946**  
+
+The "Book of Memory of Lemkivshchyna 1944-1946" contains lists of Lemko Ukrainians who were forcibly displaced between 1944-1946 due to the actions of the communist regimes of Poland and the USSR. Based on archival documents, the book preserves the memory of the Lemko tragedy and serves as a reference for the descendants of the deported.  
+**Author:** Yaroslava Halyk
 
 ### **Senior Software Engineer at Enke Systems**  
 **February 2023 – January 2024**  
@@ -136,6 +140,11 @@ MySQL, Java 8, Tomcat, AWS, BackboneJS, AngularJS, Flex4
 
 #### Achievements:  
 Delivered a comprehensive platform for orchestrated online presentations accessible on web browsers and mobile devices.  
+
+---
+
+## Languages  
+- ★★★★☆ English
 
 ---
 
