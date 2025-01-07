@@ -51,7 +51,7 @@ Played a critical role in delivering a platform that ensures adherence to compan
 **Book of Memory of Lemkivshchyna 1944-1946**  
 A digital project that preserves the memory of Lemko Ukrainians displaced between 1944-1946 due to the actions of communist regimes. The project features a database of displaced individuals, accessible through a web interface.  
 
-** [Konar.org](https://konar.org.ua/)
+**[Konar.org](https://konar.org.ua/)
 
 **Technologies Used:**  
 - Python (Flask) for API development  
