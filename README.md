@@ -17,6 +17,20 @@ Experienced Senior Software Engineer with expertise in Node.js, React JS, Python
 
 ---
 
+## Slkils
+- ★★★★★ Node.js
+- ★★★★★ Python
+- ★★★★☆ Postgresql
+- ★★★★☆ JavaScript
+- ★★★☆☆ Typescript
+- ★★★☆☆ LangChain
+- ★★★☆☆ React
+- ★★★☆☆ AWS
+- ★★★☆☆ Azure
+- ★★★☆☆ SQL
+- ★★★☆☆ Git
+- ★★★☆☆ Docker
+
 ## Links  
 - [LinkedIn](https://www.linkedin.com/in/andrii-peliak-2490b629/)  
 - [Konar.org](https://konar.org.ua/)
