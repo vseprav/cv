@@ -1,5 +1,5 @@
 [project]
-name = "ap-cv"
+name = "cv"
 version = "0.1.0"
 description = "Andrii Peliak CV"
 authors = [
@@ -7,11 +7,26 @@ authors = [
 ]
 license = {text = "mit"}
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.11,<4.0"
 dependencies = [
+    "openai (>=1.59.7,<2.0.0)",
+    "python-dotenv (>=1.0.1,<2.0.0)",
+    "langchain (>=0.3.14,<0.4.0)",
+    "markdown (>=3.7,<4.0)",
+    "pdfkit (>=1.0.0,<2.0.0)",
+    "langchain-community (>=0.3.14,<0.4.0)",
+    "cffi (>=1.17.1,<2.0.0)",
+    "html2text (>=2024.2.26,<2025.0.0)",
+    "langchain-openai (>=0.3.0,<0.4.0)",
 ]
 
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
 build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3.4"
+[tool.poetry.scripts]
+generate-cv = "app/main:main"
+
